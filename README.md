@@ -185,7 +185,7 @@ quantitative-portfolio-analytics/
 **Step 1: Clone the Repository**
 
 ```bash
-git clone [https://github.com/enmity101/Quantitative-Portfolio-Performance-Risk-Analytics.git]
+git clone https://github.com/<your-org>/quantitative-portfolio-analytics.git
 cd quantitative-portfolio-analytics
 ```
 
@@ -243,7 +243,7 @@ Open `dashboards/portfolio_performance.pbix` in Power BI Desktop. Update the dat
 | Quantitative Analysis | Python 3.9+ / Jupyter Notebook        | Return, risk, and attribution modeling                |
 | Data Manipulation     | pandas, numpy                         | Tabular operations, vectorized computation            |
 | Statistical Modeling  | scipy, statsmodels                    | Distribution fitting, regression, hypothesis testing  |
-| Visualization         | matplotlib, seaborn , Power BI        | Static charts and analytical plots                    |
+| Visualization         | matplotlib, seaborn                   | Static charts and analytical plots                    |
 | BI Dashboard          | Microsoft Power BI Desktop            | Interactive performance dashboards                    |
 | DB Connectivity       | sqlalchemy                            | Database abstraction and query execution              |
 | Excel I/O             | openpyxl                              | Programmatic Excel file read/write                    |
